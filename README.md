@@ -1,4 +1,4 @@
-# nvidia-full-reinstall
+# Nvidia full reinstall
 A script that uninstalls all Nvidia packages on your Ubuntu machine and reinstalls the latest Nvidia drivers.
 
 ## How to use it
